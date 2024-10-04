@@ -1,0 +1,3 @@
+[submodule "scaffold-balancer-v3"]
+	path = scaffold-balancer-v3
+	url = https://github.com/balancer/scaffold-balancer-v3.git
